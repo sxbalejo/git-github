@@ -1,3 +1,5 @@
 # nuevo_repositorio
 
-Mi primera contribucion local para Github
+Mi primer repositorio 1
+
+mi primera contribucion desde vs 1

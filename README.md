@@ -15,5 +15,3 @@ SI ves esto lograste el git pull
 
 
 
-
-

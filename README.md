@@ -9,6 +9,9 @@ prueba de sincornizacion final
 conexion nueva
 
 
+SI ves esto lograste el git pull
+
+
 
 
 

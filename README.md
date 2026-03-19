@@ -14,4 +14,6 @@ conexion nueva
 YA para terminar
 PARA ultimo pull
 
+ESTO ES FETCH
+
 
